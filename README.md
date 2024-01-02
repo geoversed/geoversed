@@ -1,4 +1,4 @@
-# The Geo Side of things.
+# About
 
 Undergrad at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
 
