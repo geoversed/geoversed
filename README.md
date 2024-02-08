@@ -1,6 +1,6 @@
 # About
 
-Undergraduduate at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
+Undergraduate at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
 
 I'm always seeking out new things and learning from mistakes in the past.
 - At present, I'm working on a Discord bot in Python as a free-time project.
