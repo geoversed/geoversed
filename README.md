@@ -1,4 +1,5 @@
 # About
+**Notice:** Moving forward, my personal repositories will be hosted and maintained on [Codeberg.](https://codeberg.org/geoversed/)
 
 Undergraduate at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
 
