@@ -1,9 +1,7 @@
-# About
 **Notice:** Moving forward, my personal repositories will be hosted and maintained on [Codeberg.](https://codeberg.org/geoversed/)
 
 Undergraduate at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
 
-I'm always seeking out new things and learning from mistakes in the past.
-- Working with Python and planning on learning Javascript and C in the near future.
-- May make random contributions to projects particularly in Python.
-- Available on Discord and occasionally on X.
+Seeking out new things and learning from mistakes in the past. Currently, I'm working with Python with a few years of experience in the language, with plans to learn Javascript and C in the future. Gained some experience in web development in academics and scripting too whilst taking up Arch Linux as my primary OS.
+
+Aspirations to become a networking or software engineer.
