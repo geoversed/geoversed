@@ -2,6 +2,6 @@
 
 Undergraduate at UK studying A-Levels. I have a lot on my plate with academics, so there is not much to share yet.
 
-Seeking out new things and learning from mistakes in the past. Currently, I'm working with Python with a few years of experience in the language, with plans to learn Javascript and C in the future. Gained some experience in web development in academics and scripting too whilst taking up Arch Linux as my primary OS.
+Seeking out new things and learning from mistakes in the past. Currently, I'm working with Python with a few years of experience in the language, with plans to learn JavaScript and C in the future. Gained some experience in web development in academics and scripting too whilst taking up Arch Linux as my primary OS.
 
 Aspirations to become a networking or software engineer.
